@@ -6,3 +6,7 @@ Device Management - Operating system manages divce commmunication via their resp
        
 File Management - The operating system allocates and de-allocates resources. 
     It regulates which process gets the file and for what duration. Also, it keeps track of informatio, location, uses, status etc.
+
+
+Memory Management - It refers to the management of primary or main memory. Main memory provides fast storage which can be accedded directly by CPU.
+     When  the program is executed and finished, the memory area is freed which can be used for other programs. Computer memory is arranged such that fastest registers come 1st followed by the CPU cache,random access memory, and then disk storag. 
