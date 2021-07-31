@@ -1,0 +1,6 @@
+Device Management - Operating system manages divce commmunication via their respective drivers.
+It does the following activities for device management - 
+        .  Keeps tracks of all devices 
+        .  Decides which process gets the device when and for how much time.
+        .  Allocates the device in an efficient way.
+       
